@@ -19,7 +19,7 @@ onMounted(() => {
 </script>
 
 <template>
-	<div class="text-container">Airdrop ASC</div>
+	<div class="text-container">Airdrop</div>
 	<div class="rain" ref="rainContainer"></div>
 </template>
 
